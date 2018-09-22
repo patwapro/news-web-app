@@ -1,5 +1,5 @@
-# News App
-**ReactJs** based news app with newsapi.
+# News Web App
+**ReactJs** based news web app with newsapi.
 ## Prerequisites
 The things you need to install.
 ```
