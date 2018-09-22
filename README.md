@@ -10,6 +10,7 @@ Just clone or download the news-web-app
 ### development
 run 
 ```
+cd news-web-app
 npm install
 ```
 then 
@@ -19,6 +20,7 @@ npm start
 ### production
 run 
 ```
+cd news-web-app
 npm install
 ```
 then 
