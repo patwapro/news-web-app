@@ -6,7 +6,7 @@ The things you need to install.
 NodeJs and Git(optional)
 ```
 ## Installation
-Just clone or download the news-app
+Just clone or download the news-web-app
 ### development
 run 
 ```
